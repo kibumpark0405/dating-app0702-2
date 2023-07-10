@@ -1,0 +1,19 @@
+.border-color {
+    border:solid  1px !important;
+}
+
+.main-text-color {
+    color:  !important;
+}
+
+.secondary-text-color {
+    color:  !important;
+}
+
+.v-application {
+    background-color:  !important;
+}
+
+*{
+    font-family:  !important;
+}
